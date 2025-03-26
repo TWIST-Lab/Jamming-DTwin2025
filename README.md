@@ -22,7 +22,7 @@ This experiment introduces a novel approach for identifying jamming-prone areas 
 Once you have successfully installed all the necessary dependencies, proceed to run the python files.
 ### Instructions
 
-- Run the .py files
+- Run the .ipynb files for Dallas and Houston experiments.
 
 ## Cite
 
